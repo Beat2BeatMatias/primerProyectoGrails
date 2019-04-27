@@ -17,6 +17,7 @@
     <script type="text/javascript">
             $( document ).ready(function() {
             console.log( "jQuery 3.1.1 loaded!" );
+
         });
     </script>
 </head>
