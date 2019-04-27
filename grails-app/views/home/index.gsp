@@ -29,7 +29,6 @@
         <g:if test="${flash.message}">
             <div class="message" role="status">${flash.message}</div>
         </g:if>
-
         <p>There are ${vehicleTotal} vehicles in the database.</p>
 
         <ul>
